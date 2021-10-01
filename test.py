@@ -1,5 +1,5 @@
 int a = input()
 if a =! 0:
-    print('Cool')
+    print('a =! 0')
 else:
-    print('Not cool')
+    print('a == 0')
