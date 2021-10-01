@@ -1,5 +1,6 @@
 int a = input()
-if a =! 0:
-    print('Число =! 0')
+int b = input()
+if a =! b:
+    print('Ваше число =! b')
 else:
-    print('Число == 0')
+    print('Ваше число == b')
