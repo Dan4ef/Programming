@@ -1,1 +1,1 @@
-Test 'Cool'/'Not cool'
+Test 'a =! 0'/'a == 0'
